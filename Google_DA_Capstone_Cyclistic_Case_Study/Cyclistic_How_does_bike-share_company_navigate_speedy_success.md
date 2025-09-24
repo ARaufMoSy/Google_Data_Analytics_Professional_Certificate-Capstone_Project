@@ -1,13 +1,13 @@
 ---
 
 Title: 'Case Study: How does a bike-share company navigate speedy success'
-Author: 'Rubayet Islam'
+Author: 'Abdul Rauf Syed'
 Date: '2022-05-22'
 ---
 
 # Case study: How does a bike-share company navigate speedy success
 
-**Author:** Rubayet Islam
+**Author:** Abdul Rauf Syed
 **Date:** 2022-05-22
 
 
